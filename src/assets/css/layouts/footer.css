@@ -1,0 +1,223 @@
+.footer {
+  background: #7a7f86;
+  color: white;
+  padding: 60px 0 20px;
+}
+
+.footer .container {
+  width: 80%;
+  margin: auto;
+  max-width: 1400px;
+}
+
+.footer-top {
+  display: grid;
+  grid-template-columns: 2fr 1fr 1fr 1fr;
+  gap: 40px;
+  margin-bottom: 40px;
+}
+
+.footer-logo {
+  width: 150px;
+  margin-bottom: 15px;
+}
+
+/* ---------------- LINKS ---------------- */
+
+.footer-links h4 {
+  margin-bottom: 15px;
+  font-size: 18px;
+}
+
+.footer-links ul {
+  list-style: none;
+  padding: 0;
+}
+
+.footer-links li {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 10px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.footer-links li:hover {
+  color: #ff6d6d;
+  transform: translateX(3px);
+}
+
+.footer-link-icon {
+  font-size: 12px;
+  color: #ff0000;
+}
+
+/* ---------------- CONTACT ---------------- */
+
+.contact-icon {
+  width: 16px !important;
+  height: 16px !important;
+  background: none !important;
+  margin-right: 8px;
+  color: #ff8c8c;
+}
+
+.footer-links p {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 8px;
+}
+
+/* ---------------- REGISTER CTA ---------------- */
+
+.footer-register {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  padding: 25px 0;
+  border-top: 1px solid rgba(255, 255, 255, 0.2);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.signup-btn {
+  background: #ff6f7d;
+  border: none;
+  padding: 10px 25px;
+  border-radius: 30px;
+  color: white;
+  font-weight: 600;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.signup-btn:hover {
+  background: #ff5252;
+}
+
+/* ---------------- BOTTOM ROW ---------------- */
+
+.footer-bottom-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 25px;
+  flex-wrap: wrap;
+}
+
+.footer-bottom {
+  font-size: 14px;
+}
+
+.footer-bottom a {
+  background-color: #ffffff;
+  padding: 5px 10px;
+  border-radius: 15px;
+  color: #ff0000;
+  text-decoration: none;
+}
+
+.footer-bottom a:hover {
+  background-color: #ff0000;
+  padding: 5px 10px;
+  border-radius: 15px;
+  color: white;
+  text-decoration: none;
+}
+
+/* ---------------- SOCIAL ICONS ---------------- */
+
+.footer-social {
+  display: flex;
+  gap: 12px;
+}
+
+.social-icon {
+  width: 38px;
+  height: 38px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #ffffff20;
+  border-radius: 50%;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.social-icon:hover {
+  background: #ff132b;
+}
+
+/* ---------------- LARGE TABLET ---------------- */
+
+@media (max-width: 1024px) {
+  .footer-top {
+    grid-template-columns: 1fr 1fr;
+    gap: 35px;
+  }
+}
+
+/* ---------------- TABLET ---------------- */
+
+@media (max-width: 768px) {
+  .footer {
+    padding: 50px 0 20px;
+    margin-bottom: 50px;
+  }
+
+  .footer-top {
+    grid-template-columns: 1fr 1fr;
+    gap: 30px;
+  }
+
+  .footer-register {
+    flex-direction: column;
+    text-align: center;
+    gap: 10px;
+  }
+
+  .footer-bottom-row {
+    flex-direction: column;
+    gap: 15px;
+    text-align: center;
+  }
+}
+
+/* ---------------- MOBILE ---------------- */
+
+@media (max-width: 600px) {
+  .footer-top {
+    grid-template-columns: 1fr;
+    gap: 25px;
+  }
+
+  .footer-logo {
+    width: 130px;
+  }
+
+  .signup-btn {
+    width: 100%;
+    max-width: 200px;
+  }
+  .footer-bottom {
+    font-size: 8px;
+  }
+}
+
+/* ---------------- SMALL MOBILE ---------------- */
+
+@media (max-width: 400px) {
+  .footer .container {
+    width: 92%;
+  }
+
+  .footer-links h4 {
+    font-size: 16px;
+  }
+
+  .footer-bottom {
+    font-size: 8px;
+  }
+}
