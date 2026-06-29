@@ -19,7 +19,7 @@ const Hero = () => {
           systems, infrastructure, and large-scale construction projects.
         </p>
 
-        <div className="hero-buttons">
+        <div className="hero-buttons">  
           <a href="products" className="btn">
             View Products
           </a>
