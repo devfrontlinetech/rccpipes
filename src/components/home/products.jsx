@@ -142,7 +142,9 @@ const Products = () => {
     <section id="products" className="products-section">
       <div className="container">
         <h2 className="products-title">Our Products</h2>
-        <p className="product-desc">High quality pipes for construction and infrastructure projects</p>
+        <p className="product-desc">
+          High quality pipes for construction and infrastructure projects
+        </p>
 
         <div className="product-grid">
           {productData.map((product) => (
