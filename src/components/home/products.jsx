@@ -182,7 +182,7 @@ const Products = () => {
                   onClick={() => sendWhatsapp(product)}
                 >
                   <FaWhatsapp />
-                  Yes I'm Interested
+                  Get Order
                 </button>
               </div>
             </div>
