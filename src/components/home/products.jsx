@@ -114,7 +114,7 @@ const productData = [
     name: "RCC Roadside Drain Pipe",
     material: "Reinforced Cement Concrete",
     size: "500mm - 1000mm",
-    price: "₹1,350 / piece",
+    price: "₹1,400 / piece",
     rating: "4.8",
     image: pipe11,
   },
