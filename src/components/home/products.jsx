@@ -130,7 +130,7 @@ const productData = [
 ];
 
 const Products = () => {
-  const whatsappNumber = "911234567890";
+  const whatsappNumber = "911234567840";
 
   const sendWhatsapp = (product) => {
     const message = `Hello, I'm interested in ${product.name}. Please share more details.`;
