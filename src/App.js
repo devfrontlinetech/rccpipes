@@ -10,7 +10,6 @@ import Bottomnav from "./components/layout/bottom-menu/bottom-nav.jsx";
 import Floating from "./components/common/floating.jsx";
 
 function App() {
-
   // Scroll to section handler
   const handleMenuClick = (section) => {
     const element = document.getElementById(section);
