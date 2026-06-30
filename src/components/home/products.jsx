@@ -123,7 +123,7 @@ const productData = [
     name: "Precast Concrete Cable Trench",
     material: "Heavy Duty Concrete",
     size: "Custom Sizes",
-    price: "₹3,100 / piece",
+    price: "₹3,000 / piece",
     rating: "4.7",
     image: pipe12,
   },
