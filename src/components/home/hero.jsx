@@ -12,7 +12,7 @@ const Hero = () => {
       <div className="hero-overlay"></div>
 
       <div className="hero-content container">
-        <h1>High-Strength Concrete Pipes</h1>
+        <h1><span style={{ color: "#ed0707" }}>High-Strength</span> Concrete Pipes</h1>
 
         <p>
           Durable RCC and precast concrete products engineered for drainage
