@@ -1,5 +1,7 @@
-[providers]
-node = { nodeVersion = "20" }
+providers = ["node"]
+
+[phases.setup]
+cmds = ["npm ci"]
 
 [phases.build]
 cmds = ["npm run build"]
