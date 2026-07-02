@@ -14,7 +14,7 @@ import pipe6 from "../../assets/images/products/pipe-6.jpg";
 import pipe7 from "../../assets/images/products/pipe-7.jpg";
 import pipe8 from "../../assets/images/products/pipe-8.jpg";
 import pipe9 from "../../assets/images/products/pipe-9.jpg";
-import pipe10 from "../../assets/images/products/pipe-20.jpg";
+import pipe10 from "../../assets/images/products/pipe-23.jpg";
 import pipe11 from "../../assets/images/products/pipe-21.jpg";
 import pipe12 from "../../assets/images/products/pipe-22.jpg";
 
