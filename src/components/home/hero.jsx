@@ -20,11 +20,11 @@ const Hero = () => {
         </p>
 
         <div className="hero-buttons">  
-          <a href="/products" className="btn">
+          <a href="#products" className="btn">
             View Products
           </a>
 
-          <a href="/contact" className="btn btn-outline">
+          <a href="#contact" className="btn btn-outline">
             Request Quote
           </a>
         </div>
