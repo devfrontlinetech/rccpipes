@@ -5,18 +5,18 @@ import { FaStar, FaWhatsapp } from "react-icons/fa";
 import { GiConcreteBag } from "react-icons/gi";
 import { FiLayers } from "react-icons/fi";
 
-import pipe1 from "../../assets/images/products/pipe-01.jpg";
-import pipe2 from "../../assets/images/products/pipe-02.jpg";
-import pipe3 from "../../assets/images/products/pipe-03.jpg";
-import pipe4 from "../../assets/images/products/pipe-04.jpg";
-import pipe5 from "../../assets/images/products/pipe-05.jpg";
-import pipe6 from "../../assets/images/products/pipe-06.jpg";
-import pipe7 from "../../assets/images/products/pipe-07.jpg";
-import pipe8 from "../../assets/images/products/pipe-08.jpg";
-import pipe9 from "../../assets/images/products/pipe-09.jpg";
-import pipe10 from "../../assets/images/products/pipe-10.jpg";
-import pipe11 from "../../assets/images/products/pipe-11.jpg";
-import pipe12 from "../../assets/images/products/pipe-12.jpg";
+import pipe1 from "../../assets/images/products/pipe-1.jpg";
+import pipe2 from "../../assets/images/products/pipe-2.jpg";
+import pipe3 from "../../assets/images/products/pipe-3.jpg";
+import pipe4 from "../../assets/images/products/pipe-4.jpg";
+import pipe5 from "../../assets/images/products/pipe-5.jpg";
+import pipe6 from "../../assets/images/products/pipe-6.jpg";
+import pipe7 from "../../assets/images/products/pipe-7.jpg";
+import pipe8 from "../../assets/images/products/pipe-8.jpg";
+import pipe9 from "../../assets/images/products/pipe-9.jpg";
+import pipe10 from "../../assets/images/products/pipe-20.jpg";
+import pipe11 from "../../assets/images/products/pipe-21.jpg";
+import pipe12 from "../../assets/images/products/pipe-22.jpg";
 
 const productData = [
   {
