@@ -2,9 +2,9 @@ import React from "react";
 import "../../assets/css/home/industries.css";
 
 import road from "../../assets/images/industries/road.jpg";
-import drainage from "../../assets/images/industries/drainage.jpg";
-import municipal from "../../assets/images/industries/municipal.jpg";
-import infrastructure from "../../assets/images/industries/infrastructure.jpg";
+import drainage from "../../assets/images/industries/drainage-01.jpg";
+import municipal from "../../assets/images/industries/municipal-01.jpg";
+import infrastructure from "../../assets/images/industries/infra-01.jpg";
 import realestate from "../../assets/images/industries/realestate.jpg";
 
 function Industries() {
