@@ -1,0 +1,8 @@
+[providers]
+node = { nodeVersion = "20" }
+
+[phases.build]
+cmds = ["npm run build"]
+
+[start]
+cmd = "nginx -g 'daemon off;'"
