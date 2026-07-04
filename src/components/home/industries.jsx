@@ -11,10 +11,11 @@ function Industries() {
   const industriesData = [
     {
       id: 1,
-      title: "Road Construction",
-      image: road,
-      desc: "Concrete pipes support road drainage systems, culverts, and stormwater channels, ensuring long-term durability and efficient water flow in high traffic environments.",
+      title: "Infrastructure Development",
+      image: infrastructure,
+      desc: "Large infrastructure projects such as highways, bridges, and tunnels require durable reinforced concrete pipe systems.",
     },
+
     {
       id: 2,
       title: "Drainage Systems",
@@ -29,10 +30,11 @@ function Industries() {
     },
     {
       id: 4,
-      title: "Infrastructure Development",
-      image: infrastructure,
-      desc: "Large infrastructure projects such as highways, bridges, and tunnels require durable reinforced concrete pipe systems.",
+      title: "Road Construction",
+      image: road,
+      desc: "Concrete pipes support road drainage systems, culverts, and stormwater channels, ensuring long-term durability and efficient water flow in high traffic environments.",
     },
+
     {
       id: 5,
       title: "Real Estate Construction",
