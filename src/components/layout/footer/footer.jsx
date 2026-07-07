@@ -90,7 +90,7 @@ function Footer() {
 
             <p>
               <FaPhoneAlt className="contact-icon" />
-              +91 98765 43210
+              +91  94865 44451
             </p>
 
             <p>

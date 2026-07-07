@@ -13,12 +13,12 @@ function Contact() {
     {
       id: 2,
       icon: <FiPhone />,
-      text: "+09600544451",
+      text: "+91 94865 44451",
     },
     {
       id: 3,
       icon: <FiMail />,
-      text: "info@rccpipeschennai.com",
+      text: "info@rccpipeschennai.in",
     },
   ];
 
