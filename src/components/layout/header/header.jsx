@@ -59,7 +59,7 @@ function Header() {
 
             <div className="location-row">
               <FiPhoneCall className="phone-icon" />
-              <span>+91 94865 44451</span>
+              <span>+91 96005 44451</span>
             </div>
           </div>
         </div>
