@@ -13,12 +13,12 @@ function Contact() {
     {
       id: 2,
       icon: <FiPhone />,
-      text: "+91 94865 44451",
+      text: "+91 96005 44451",
     },
     {
       id: 3,
       icon: <FiMail />,
-      text: "info@rccpipeschennai.in",
+      text: "info@chennairccpipes.in",
     },
   ];
 
