@@ -85,12 +85,12 @@ function Footer() {
 
             <p>
               <FaMapMarkerAlt className="contact-icon" />
-              Chennai, Tamil Nadu
+              86/146, Vellalar St, Mogappair West, Chennai, Tamil Nadu 600037
             </p>
 
             <p>
               <FaPhoneAlt className="contact-icon" />
-              +91  94865 44451
+              +91 94865 44451
             </p>
 
             <p>
