@@ -22,6 +22,7 @@
 
 .section-title p{
   color:#666;
+  text-align: justify;
 }
 
 /* GRID */
@@ -69,4 +70,5 @@
   font-size:14px;
   color:#666;
   line-height:1.6;
+  text-align: justify;
 }

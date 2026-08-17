@@ -66,6 +66,7 @@
 .industry-text p{
   color:#666;
   line-height:1.7;
+  text-align: justify;
 }
 
 /* MOBILE */
